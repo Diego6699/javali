@@ -1,0 +1,6 @@
+func a(int a,int b) begin
+    int a = 1;
+    float b = 1.1;
+    char c = 'a';
+    boolean d = true;
+end;

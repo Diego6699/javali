@@ -1,0 +1,5 @@
+int a = 1;
+float b = 1.1;
+string c = "teste";
+boolean d = true;
+array e = [1,2];
